@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "js-app-cicd-githubaction",
+  "description": "node application deployment",
+  "version": "1.0.0",
+  "main": "Node.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuragbkhapke/node-js-app-cicd-githubaction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anuragbkhapke/node-js-app-cicd-githubaction/issues"
+  },
+  "homepage": "https://github.com/Anuragbkhapke/node-js-app-cicd-githubaction#readme"
+}
